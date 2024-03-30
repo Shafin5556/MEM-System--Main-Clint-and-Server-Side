@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shafi\\OneDrive\\Desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E44DFBF4-42FF-4EF6-9A95-9FB5715D898E}|MilitaryEquipmentManagementSystem.csproj|c:\\users\\shafi\\onedrive\\desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44DFBF4-42FF-4EF6-9A95-9FB5715D898E}|MilitaryEquipmentManagementSystem.csproj|solutionrelative:loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44DFBF4-42FF-4EF6-9A95-9FB5715D898E}|MilitaryEquipmentManagementSystem.csproj|c:\\users\\shafi\\onedrive\\desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\formweapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44DFBF4-42FF-4EF6-9A95-9FB5715D898E}|MilitaryEquipmentManagementSystem.csproj|solutionrelative:formweapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44DFBF4-42FF-4EF6-9A95-9FB5715D898E}|MilitaryEquipmentManagementSystem.csproj|c:\\users\\shafi\\onedrive\\desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\trooppanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44DFBF4-42FF-4EF6-9A95-9FB5715D898E}|MilitaryEquipmentManagementSystem.csproj|solutionrelative:trooppanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44DFBF4-42FF-4EF6-9A95-9FB5715D898E}|MilitaryEquipmentManagementSystem.csproj|c:\\users\\shafi\\onedrive\\desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\formexplosive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44DFBF4-42FF-4EF6-9A95-9FB5715D898E}|MilitaryEquipmentManagementSystem.csproj|solutionrelative:formexplosive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44DFBF4-42FF-4EF6-9A95-9FB5715D898E}|MilitaryEquipmentManagementSystem.csproj|c:\\users\\shafi\\onedrive\\desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\formtroopsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44DFBF4-42FF-4EF6-9A95-9FB5715D898E}|MilitaryEquipmentManagementSystem.csproj|solutionrelative:formtroopsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44DFBF4-42FF-4EF6-9A95-9FB5715D898E}|MilitaryEquipmentManagementSystem.csproj|c:\\users\\shafi\\onedrive\\desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\formvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E44DFBF4-42FF-4EF6-9A95-9FB5715D898E}|MilitaryEquipmentManagementSystem.csproj|solutionrelative:formvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44DFBF4-42FF-4EF6-9A95-9FB5715D898E}|MilitaryEquipmentManagementSystem.csproj|c:\\users\\shafi\\onedrive\\desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\formtroopsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E44DFBF4-42FF-4EF6-9A95-9FB5715D898E}|MilitaryEquipmentManagementSystem.csproj|solutionrelative:formtroopsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44DFBF4-42FF-4EF6-9A95-9FB5715D898E}|MilitaryEquipmentManagementSystem.csproj|c:\\users\\shafi\\onedrive\\desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\formexplosive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E44DFBF4-42FF-4EF6-9A95-9FB5715D898E}|MilitaryEquipmentManagementSystem.csproj|solutionrelative:formexplosive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44DFBF4-42FF-4EF6-9A95-9FB5715D898E}|MilitaryEquipmentManagementSystem.csproj|c:\\users\\shafi\\onedrive\\desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44DFBF4-42FF-4EF6-9A95-9FB5715D898E}|MilitaryEquipmentManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPanel.cs",
+              "DocumentMoniker": "C:\\Users\\shafi\\OneDrive\\Desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\LoginPanel.cs",
+              "RelativeDocumentMoniker": "LoginPanel.cs",
+              "ToolTip": "C:\\Users\\shafi\\OneDrive\\Desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\LoginPanel.cs",
+              "RelativeToolTip": "LoginPanel.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T10:18:59.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormWeapons.cs",
+              "DocumentMoniker": "C:\\Users\\shafi\\OneDrive\\Desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\FormWeapons.cs",
+              "RelativeDocumentMoniker": "FormWeapons.cs",
+              "ToolTip": "C:\\Users\\shafi\\OneDrive\\Desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\FormWeapons.cs",
+              "RelativeToolTip": "FormWeapons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T10:18:54.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TroopPanel.cs",
+              "DocumentMoniker": "C:\\Users\\shafi\\OneDrive\\Desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\TroopPanel.cs",
+              "RelativeDocumentMoniker": "TroopPanel.cs",
+              "ToolTip": "C:\\Users\\shafi\\OneDrive\\Desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\TroopPanel.cs",
+              "RelativeToolTip": "TroopPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T10:18:51.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormTroopsAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\shafi\\OneDrive\\Desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\FormTroopsAdmin.cs",
+              "RelativeDocumentMoniker": "FormTroopsAdmin.cs",
+              "ToolTip": "C:\\Users\\shafi\\OneDrive\\Desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\FormTroopsAdmin.cs",
+              "RelativeToolTip": "FormTroopsAdmin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T10:14:58.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormVehicle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shafi\\OneDrive\\Desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\FormVehicle.cs",
+              "RelativeDocumentMoniker": "FormVehicle.cs",
+              "ToolTip": "C:\\Users\\shafi\\OneDrive\\Desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\FormVehicle.cs [Design]",
+              "RelativeToolTip": "FormVehicle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T10:14:11.173Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormTroopsAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shafi\\OneDrive\\Desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\FormTroopsAdmin.cs",
+              "RelativeDocumentMoniker": "FormTroopsAdmin.cs",
+              "ToolTip": "C:\\Users\\shafi\\OneDrive\\Desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\FormTroopsAdmin.cs [Design]",
+              "RelativeToolTip": "FormTroopsAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T10:14:08.07Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormExplosive.cs",
+              "DocumentMoniker": "C:\\Users\\shafi\\OneDrive\\Desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\FormExplosive.cs",
+              "RelativeDocumentMoniker": "FormExplosive.cs",
+              "ToolTip": "C:\\Users\\shafi\\OneDrive\\Desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\FormExplosive.cs",
+              "RelativeToolTip": "FormExplosive.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T10:13:52.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormExplosive.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shafi\\OneDrive\\Desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\FormExplosive.cs",
+              "RelativeDocumentMoniker": "FormExplosive.cs",
+              "ToolTip": "C:\\Users\\shafi\\OneDrive\\Desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\FormExplosive.cs [Design]",
+              "RelativeToolTip": "FormExplosive.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T10:12:58.924Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shafi\\OneDrive\\Desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shafi\\OneDrive\\Desktop\\military-equipment-management-system-main\\military-equipment-management-system-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T10:12:43.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
